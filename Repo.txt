@@ -1,0 +1,9 @@
+Diferencias entre Git y Sourcetree:
+
+Git:
+No tiene una interfaz gráfica, pero a través del símbolo de sistema de windows permite un control adecuado para todos los repositorios mediante comandos simples y fáciles de recordar.
+
+Sourcetree:
+Posee una interfaz gráfica amigable, a diferencia de Git, hay qué buscar las carpetas donde se harán los repositorios, lo cual lo hace un poco más tardado. 
+
+Utilicé Git, ya que en el área en que he estado trabajando me he familiarizado más con el símbolo de sistema que con interfaces gráficas. En lo personal, no me es díficil manejar el CMD, por lo tanto es la mejor opción que consideré adecuada para mí.
