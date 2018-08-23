@@ -1,0 +1,23 @@
+[1mdiff --git a/Repo.txt b/Repo.txt[m
+[1mindex c5dc5c8..d26e387 100644[m
+[1m--- a/Repo.txt[m
+[1m+++ b/Repo.txt[m
+[36m@@ -6,4 +6,16 @@[m [mNo tiene una interfaz gr[m
+ Sourcetree:[m
+ Posee una interfaz gráfica amigable, a diferencia de Git, hay qué buscar las carpetas donde se harán los repositorios, lo cual lo hace un poco más tardado. [m
+ [m
+[31m-Utilicé Git, ya que en el área en que he estado trabajando me he familiarizado más con el símbolo de sistema que con interfaces gráficas. En lo personal, no me es díficil manejar el CMD, por lo tanto es la mejor opción que consideré adecuada para mí.[m
+\ No newline at end of file[m
+[32m+[m[32mUtilicé Git, ya que en el área en que he estado trabajando me he familiarizado más con el símbolo de sistema que con interfaces gráficas. En lo personal, no me es díficil manejar el CMD, por lo tanto es la mejor opción que consideré adecuada para mí.[m
+[32m+[m
+[32m+[m
+[32m+[m[32m=================================[m
+[32m+[m
+[32m+[m
+[32m+[m[32mCrear un repositorio con rama adicional:[m
+[32m+[m
+[32m+[m[32mcd [dir][m
+[32m+[m[32mgit init[m
+[32m+[m[32mgit add [dir][m
+[32m+[m[32mgit commit -m "Commit 1"[m
+[32m+[m[32mgit checkout -b Rama1[m

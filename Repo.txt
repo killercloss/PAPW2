@@ -7,3 +7,15 @@ Sourcetree:
 Posee una interfaz gráfica amigable, a diferencia de Git, hay qué buscar las carpetas donde se harán los repositorios, lo cual lo hace un poco más tardado. 
 
 Utilicé Git, ya que en el área en que he estado trabajando me he familiarizado más con el símbolo de sistema que con interfaces gráficas. En lo personal, no me es díficil manejar el CMD, por lo tanto es la mejor opción que consideré adecuada para mí.
+
+
+=================================
+
+
+Crear un repositorio con rama adicional:
+
+cd [dir]
+git init
+git add [dir]
+git commit -m "Commit 1"
+git checkout -b Rama1
